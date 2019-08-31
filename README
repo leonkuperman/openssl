@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenssl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenssl?ref=badge_shield)
+
 
  OpenSSL 1.1.1-dev
 
@@ -92,3 +94,6 @@
  are potentially subject to such restrictions you should seek competent
  professional legal advice before attempting to develop or distribute
  cryptographic code.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenssl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenssl?ref=badge_large)
